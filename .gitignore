@@ -1,0 +1,9 @@
+*.pydevproject
+.settings*
+/nohup.out
+/tmp
+*.pyc
+*.bak
+.project
+.buildpath
+*.orig
